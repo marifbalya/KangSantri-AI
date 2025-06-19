@@ -1,0 +1,5 @@
+{
+  "name": "OpenRouter AI Chat",
+  "description": "A React-based chatbot application that connects to OpenRouter API. Users can input their API key and model, chat with AI, and manage chat history locally.",
+  "requestFramePermissions": []
+}
